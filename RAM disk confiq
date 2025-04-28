@@ -1,0 +1,8 @@
+Ramdisk or like as Zram in linux
+select with left cick+ or add a new disk
+create 1000Mb/1GB
+change filesystem to NTFS
+change drive letter except C
+mount as removable or oke/click left
+dont touch anything except above tutorial
+make sure RAM disk worked
